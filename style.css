@@ -8,8 +8,8 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: #f5f6fa; /* สีพื้นหลังที่เบา */
-    color: #2c3e50; /* สีข้อความ */
+    background-color: #000000; /* สีพื้นหลังที่เบา */
+    color: #ffffff; /* สีข้อความ */
 }
 
 /* สไตล์ของ header */
@@ -146,4 +146,11 @@ footer {
 
 footer p {
     font-size: 1em;
+}
+
+#sec {
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    padding: 60px 20px;
+    text-align: center;
 }
